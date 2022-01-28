@@ -1,8 +1,8 @@
-Origin: Ricklantis
-Label: Ricklantis
+Origin: pwned4ever2
+Label: pwned4ever2
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Ricklantis - a main cydia packager repo
+Description: pwned4ever2 - a main cydia packager repo
